@@ -3,7 +3,7 @@ minimal_mistakes_skin    : "drc" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Design Research Collective"
+title                    : "Learning, Inference and Networks Lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : # "Your Name"
