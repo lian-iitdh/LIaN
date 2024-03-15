@@ -1,12 +1,12 @@
-- first: Chris
-  last: McComb
-  role: Director
-  year: 1000000
+- first: B N
+  last: Barath
+  role: Project Instructor
+  year: 2024
   headshot: "https://cmccomb.com/assets/images/headshot_optimized_square.jpg"
-  email: "ccm@cmu.edu"
+  email: "bharathbn@iitdh.ac.in"
   alum: false
 
-- first: Jiangce
+- first: 
   last: Chen
   role: Postdoc Researcher
   alum: false
