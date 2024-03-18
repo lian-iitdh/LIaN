@@ -5,6 +5,7 @@
   headshot: "/assets/headshots/profile.png"
   website: "https://bharathbettagere.github.io/mywebpage/"
   alum: false
+  
 - first: Sumit
   last: Sah
   role: PHD Student
@@ -13,11 +14,11 @@
   website: ""
   alum: false
   
-- first: sumit
-  last: Shah
+- first: Sruthi
+  last: M
   role: PHD Student
-  year: 
+  year: 2020
   headshot: ""
-  website: "https://bharathbettagere.github.io/mywebpage/"
+  website: ""
   alum: false
 
