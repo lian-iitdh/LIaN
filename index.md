@@ -12,7 +12,7 @@ header:
       url: "mailto:ccm@cmu.edu?subject=Interested in Joining the Design Research Collective"
     - label: "<i class=\"fas fa-book-reader\"></i>   Read Our Work"
       url: "https://amithmalaghan.github.io/LIaN/publications/"
-  caption: ""
+
 research_intro:
   - title: Research Areas
   - excerpt: 'In the Design Research Collective, we explore research at the intersection of engineering design, psychology, and computer science to create superpowers for designers, engineers, and problem-solvers.'
