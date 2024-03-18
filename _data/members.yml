@@ -1,8 +1,23 @@
 - first: B N
   last: Barath
   role: Project Instructor
-  year: 2024
+  year: 2016
   headshot: "/assets/headshots/profile.png"
+  website: "https://bharathbettagere.github.io/mywebpage/"
+  alum: false
+- first: Sumit
+  last: Sah
+  role: PHD Student
+  year: 2020
+  headshot: ""
+  website: "https://bharathbettagere.github.io/mywebpage/"
+  alum: false
+  
+- first: sumit
+  last: Shah
+  role: PHD Student
+  year: 
+  headshot: ""
   website: "https://bharathbettagere.github.io/mywebpage/"
   alum: false
 
