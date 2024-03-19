@@ -21,4 +21,12 @@
   headshot: "/assets/headshots/shruti.jpg"
   website: ""
   alum: false
+  
+- first: Sawan
+  last: Mehara
+  role: Student
+  year: 
+  headshot: ""
+  website: ""
+  alum: True
 
