@@ -9,7 +9,7 @@ header:
     - label: "<i class=\"fas fa-users\"></i>   Meet Our Team"
       url: "https://amithmalaghan.github.io/LIaN/team/"
     - label: "<i class=\"fas fa-user-plus\"></i>   Join Our Team"
-      url: "mailto:ccm@cmu.edu?subject=Interested in Joining the Design Research Collective"
+      url: "https://forms.gle/s8sPHMAaejoL6wuP6"
     - label: "<i class=\"fas fa-book-reader\"></i>   Read Our Work"
       url: "https://amithmalaghan.github.io/LIaN/publications/"
 
