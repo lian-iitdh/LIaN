@@ -35,8 +35,27 @@
   last: Sai
   role: University of Southern California
   degree: M.Sc in CS
-  year: Present
+  year: 
   headshot: ""
   website: "https://ksanu1998.github.io/"
   alum: True
+  
+- first: Yash
+  last: Doshi
+  role: University of Ottawa
+  degree: M.Sc in EECS
+  year: 
+  headshot: ""
+  website: "https://www.linkedin.com/in/yash-doshi-392647166/"
+  alum: True
+
+- first: Anuroop
+  last: Sai
+  role: University of Southern California
+  degree: M.Sc in CS
+  year:
+  headshot: ""
+  website: "https://ksanu1998.github.io/"
+  alum: True
+
 
