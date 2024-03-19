@@ -28,6 +28,15 @@
   degree: M.Sc in EECS
   year: 2021
   headshot: ""
-  website: "https://www.linkedin.com/in/sawan-singh-mahara-592598136/"
+  website: "https://sawansinghmahara.github.io/"
+  alum: True
+
+- first: Anuroop
+  last: Sai
+  role: University of Southern California
+  degree: M.Sc in CS
+  year: Present
+  headshot: ""
+  website: "https://ksanu1998.github.io/"
   alum: True
 
