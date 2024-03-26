@@ -7,11 +7,11 @@ header:
   overlay_image: "https://images.unsplash.com/photo-1596213812143-ff89bd9ddecd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1450&q=80"
   actions:
     - label: "<i class=\"fas fa-users\"></i>   Meet Our Team"
-      url: "https://amithmalaghan.github.io/LIaN/team/"
+      url: "https://lian-iitdh.github.io/LIaN/team/"
     - label: "<i class=\"fas fa-user-plus\"></i>   Join Our Team"
-      url: "https://forms.gle/s8sPHMAaejoL6wuP6"
+      url: "https://forms.gle/PZTwDX8BTZZQQ27DA"
     - label: "<i class=\"fas fa-book-reader\"></i>   Read Our Work"
-      url: "https://amithmalaghan.github.io/LIaN/publications/"
+      url: "https://lian-iitdh.github.io/LIaN/publications/"
 
 research_intro:
   - title: Research Areas
