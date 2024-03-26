@@ -121,7 +121,7 @@ footer:
       url: "mailto:lian.iitdh@gmail.com"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      url: 
+      url: https://www.youtube.com/channel/UCQgMpK0xjyRuc1Xn_RmZarw
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
