@@ -9,7 +9,7 @@ header:
     - label: "<i class=\"fas fa-users\"></i>   Meet Our Team"
       url: "https://lian-iitdh.github.io/LIaN/team/"
     - label: "<i class=\"fas fa-user-plus\"></i>   Join Our Team"
-      url: "https://forms.gle/PZTwDX8BTZZQQ27DA"
+      url: "https://forms.gle/vNGcQqQJ3uJT5HhK6"
 
 research_intro:
   - title: Research Areas
