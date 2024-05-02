@@ -8,7 +8,7 @@
   
 - first: Sumit
   last: Sah
-  role: PHD Student
+  role: PhD Student
   year: 2020
   headshot: "assets/headshots/Sumit2.jpeg"
   website: "https://sumit-sah1824.github.io/"
@@ -16,7 +16,7 @@
   
 - first: Shruti
   last: M
-  role: PHD Student
+  role: PhD Student
   year: 2020
   headshot: "/assets/headshots/shruti.jpg"
   website: ""
@@ -52,7 +52,7 @@
 - first: Samveed
   last: Desai
   role: Apple
-  degree: M.Sc in EECS
+  degree: B.Tech in EECS
   year:
   headshot: ""
   website: "https://www.linkedin.com/in/samveed-desai/"
