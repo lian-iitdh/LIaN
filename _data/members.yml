@@ -22,6 +22,14 @@
   website: ""
   alum: false
   
+- first: Nirmal
+  last: Barik
+  role: Ms Student
+  year: 2023
+  headshot: "assets/headshots/nirmal.jpeg"
+  website: ""
+  alum: false
+  
 - first: Sawan
   last: Mehara
   role: NXP Semiconductors
