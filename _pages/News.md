@@ -11,8 +11,8 @@ header:
 
 
 # Openings
-Two paid internship positions with a possible accomodation is available in my group! Please drop in an email with your short CV attached. The topics will be related to Federated learning, machine learning, large language models, online algorithms/learning for caching problems etc. Duration: May 1st to end of June 2024.
-Looking for bright PhD and MS students who are interested in mathematical aspects of machine learning and optimization. Please apply from our insitute webpage for these positions.
+- Two paid internship positions with a possible accomodation is available in my group! Please drop in an email with your short CV attached. The topics will be related to Federated learning, machine learning, large language models, online algorithms/learning for caching problems etc. Duration: May 1st to end of June 2024.
+- Looking for bright PhD and MS students who are interested in mathematical aspects of machine learning and optimization. Please apply from our insitute webpage for these positions.
 &nbsp;
 
 # Miscellaneous
