@@ -5,8 +5,8 @@ main:
     url: /team/
   - title: "Research"
     url: /Projects/
-  - title: "Tools & Data"
-    url: /tools-and-data/
+  - title: "News"
+    url: /News/
   - title: "Gallery"
     url: /Gallery/
   
