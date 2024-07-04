@@ -46,7 +46,4 @@ application_areas:
 
 ---
 
-{% include feature_row id="research_intro" type="center" %}
-{% include feature_row id="research_areas" %}
-{% include feature_row id="application_intro" type="center" %}
-{% include feature_row id="application_areas" %}
+
